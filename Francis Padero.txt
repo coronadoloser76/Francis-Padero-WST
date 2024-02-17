@@ -1,1 +1,6 @@
-Francis Padero Text File
+Name:
+Age:
+Date of Birth
+Address:
+Prog Language Preference:
+IDE Preference:
